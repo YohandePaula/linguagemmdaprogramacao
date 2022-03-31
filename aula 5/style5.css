@@ -1,0 +1,43 @@
+}
+body{
+	font-family: ;
+	background-color: red;
+}
+h1 {
+color: yellow;
+}
+
+h1{
+	font-family: arial;
+	font-size: 60pt;
+	color: black;
+	background-color: lightyellow;
+	padding: 40px;
+	text-align: left;
+}
+p.pequeno{
+	font-size: 14pt;
+	text-align: center;
+	background-color: orange;
+}
+h2{
+	color: #4682B4;
+	text-align: center;
+}
+h3{
+	color: #4682B4;
+	text-align: center;
+}
+ul{
+	color: red;
+	text-align: center;
+}
+
+body {
+background-color: lightyellow;
+}
+h1 {
+color: black;
+background-color: gray;
+padding: 1px;
+}

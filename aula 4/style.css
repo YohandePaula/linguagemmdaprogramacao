@@ -1,0 +1,32 @@
+}
+body{
+	font-family: arial;
+	p.img{
+	width: 30px;
+}
+h1{
+	font-family: arial;
+	font-size: 60pt;
+	color: cyan;
+	background-color: yellow;
+	padding: 50px;
+	text-align: center;
+}
+p.destaque{
+	color: green;
+	font-size: 30pt;
+	background-color: red;
+	font-family: arial;
+	padding: 15px;
+	
+	text-align: right;
+}
+}
+
+p.pequeno{
+	font-size: 10pt;
+	text-align: center;
+}
+h2{
+	color: pink;
+}
